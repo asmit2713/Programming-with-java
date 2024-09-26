@@ -55,6 +55,7 @@ public class LargestNumber {
         scanner.close();
     }
 }
+
 Program 2: Finding the Largest Element in an Array
 Description:
 This program finds the largest element in an array of user-defined size.
@@ -103,6 +104,7 @@ public class LargestInArray {
         scanner.close();
     }
 }
+
 Program 3: Bubble Sort for Numbers
 Description:
 This program sorts an array of integers in ascending order using the Bubble Sort algorithm.
@@ -159,6 +161,7 @@ public class BubbleSortNumbers {
         scanner.close();
     }
 }
+
 Program 4: Bubble Sort for Strings
 Description:
 This program sorts an array of strings lexicographically (alphabetically) using the Bubble Sort algorithm.
